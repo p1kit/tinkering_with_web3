@@ -50,8 +50,8 @@ params:
           Nice to meet you! Enjoy your visit!
         
 
-        imageUrl: "/static/images/profile.jpeg"
-        imageTitle: my image
+        imageUrl: "/images/profile.jpeg"
+        imageTitle: profile_image
         # imageWidth: 120
         # imageHeight: 120
         buttons:
