@@ -50,7 +50,7 @@ params:
           Nice to meet you! Enjoy your visit!
         
 
-        imageUrl: "/images/profile.jpeg"
+        imageUrl: "/images/profile.gif"
         imageTitle: profile_image
         # imageWidth: 120
         # imageHeight: 120
